@@ -17,7 +17,7 @@
  - 自訂編輯器的主題配色及字體以符合個人偏好 <- **這個是最重要的**
 
 ### 關於 Github Codespace
-Codespace 是一個免費的 遠端開發環境，你可以用瀏覽器直接在遠端環境直接開啟 VSCode，安裝 python 或相關工具，而不用使用到您的個人電腦
+Codespace 是一個免費的 遠端開發環境，您可以用瀏覽器直接在遠端環境直接開啟 VSCode，安裝 python 或相關工具，而不用使用到您的個人電腦
 
 簡而言之：Github 幫你開好一台電腦並裝好 VSCode，你只要負責開網頁就好
 
@@ -31,7 +31,7 @@ Codespace 是一個免費的 遠端開發環境，你可以用瀏覽器直接在
 2. 在 github 上開啟[本專案的 repo](https://github.com/RIDCorix/python-interactive-textbook)
 3. 點選綠色的 `Code` 按鈕
 4. 選擇 `Codespaces` tab
-5. 點選綠色的 `Create codespace on master` 建立一個 Codespace
+5. 點選綠色的 `Create codespace on main` 建立一個 Codespace
 
 如果跳出一個 VSCode 編輯器的新分頁就算完成了
 
